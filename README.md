@@ -2,4 +2,5 @@
 
 🚀 Habilidades Técnicas Lenguajes de programación: Python, C++ y Java 🌱 
 
-Actualmente Explorando proyectos interesantes en el área de desarrollo de software. Aprendiendo y experimentando con nuevas tecnologías como <img src="{https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}" />, 
+Actualmente Explorando proyectos interesantes en el área de desarrollo de software. Aprendiendo y experimentando con nuevas tecnologías como ![image]({https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white})
+
