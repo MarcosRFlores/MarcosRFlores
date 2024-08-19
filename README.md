@@ -1,4 +1,4 @@
-¡Hola! Soy Marcos Flores 👋 Soy un estudiante de Ingeniería en Informática en la Universidad Nacional de Asunción, Paraguay. Apasionado por la tecnología y la programación, estoy constantemente buscando aprender y mejorar mis habilidades.
+¡Hola! Soy Marcos Flores 👋 Soy un estudiante de Ingeniería en Informática en la Universidad Nacional de Asunción.
 
 🚀 Tecnologías 🌱 
 
